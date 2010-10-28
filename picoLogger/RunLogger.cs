@@ -9,7 +9,7 @@ namespace picoLogger {
     /// </summary>
     class RunLogger {
         static void Main(string[] args) {
-
+            PLog.WriteLine("test");
         }
     }
 }
